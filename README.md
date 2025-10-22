@@ -49,7 +49,9 @@ TABULAR COLUMN
 Rectifier with filter![20251022_211804](https://github.com/user-attachments/assets/22fba680-d3df-4689-a298-aebc8d4edf5b)
 
 
-WAVEFORM:
+WAVEFORM:![20251022_212502](https://github.com/user-attachments/assets/63c1347d-346d-4f01-ba39-b8e59aa18661)
+
+![20251022_212512](https://github.com/user-attachments/assets/d58d2523-d7fe-45c7-9df1-bf57f67d3be2)
 
 
 RESULT:
